@@ -5,7 +5,7 @@
   "version": "0.2.6-beta",
   "build": 26,
   "type": "installer",
-  "url": "https://www.dropbox.com/scl/fi/d3vyn23itapjnpxjrum1n/NodeDeck_Setup_v0.2.6-beta.exe?rlkey=m6fqf0ak4dnktxuetoj0wakcv&st=02r0apbm&dl=1",
+  "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.2.6-beta/NodeDeck_Setup_v0.2.6-beta.exe",
   "sha256": "0908af8d8b9c3bab97649e67ea89b7e7e03bdaa79bf3abb2247b55d3a4de70fc",
   "notes": "- 자동 업데이트: 인스톨러 없이 exe 파일만 교체하는 patch 모드 추가\n- 보안 강화: 디버거/분석 도구 감지 (5중 검사) 및 바이너리 심볼 제거\n- 보안 강화: 민감 문자열 XOR 난독화 적용\n- 테스터 모드: 로그인 시 전원 tester 역할 자동 부여\n- exe 이름 변경: NodeDeckQt.exe → NodeDeck.exe"
 }
