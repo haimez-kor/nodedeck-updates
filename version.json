@@ -5,7 +5,7 @@
   "version": "0.3.3.1",
   "build": 104,
   "type": "installer",
-  "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.3.3.1/NodeDeck_Setup_v0.3.3.1.exe",
+  "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.3.3.1-beta/NodeDeck_Setup_v0.3.3.1.exe",
   "sha256": "E274A55D183832E714E988A5701A9E8B19B633396A38816681D7FE7C863BED22",
   "notes": "- 프록시 라우팅 포트 자동 조회 (프로젝트 연동)"
 }
