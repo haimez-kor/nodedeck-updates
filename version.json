@@ -6,6 +6,6 @@
   "build": 102,
   "type": "installer",
   "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.3.2-beta/NodeDeck_Setup_v0.3.2-beta.exe",
-  "sha256": "3EEF3B1BCC37F69BC923476F9D5BF7C97E0BEAD2006117EE55630567E48C14D4",
+  "sha256": "AB3E72632F9E16F9975AFA58F1049363A8FE29C96CFE5E08B7A2F09C31E2D1FE",
   "notes": "- 코드 뷰어(에디터 패널) 제거\n- UI 반응속도 개선\n- 설정 즉시 저장 (저장 버튼 제거)"
 }
