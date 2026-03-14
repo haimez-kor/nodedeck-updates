@@ -2,10 +2,10 @@
   "_comment": "이 파일을 GitHub 공개 저장소(소스코드 없는 별도 repo)에 올려두세요.",
   "_comment2": "version.h 의 UPDATE_MANIFEST_URL 을 raw.githubusercontent.com 주소로 설정하세요.",
   "_comment3": "type: \"installer\" = Inno Setup 실행, \"patch\" = exe 직접 교체 (이게 더 간단)",
-  "version": "0.3.1-beta",
-  "build": 101,
+  "version": "0.3.2-beta",
+  "build": 102,
   "type": "installer",
-  "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.3.1-beta/NodeDeck_Setup_v0.3.1-beta.exe",
-  "sha256": "424535653f4b143482179d9f9ada83be4ca418912ce2e78a25659713be797b67",
-  "notes": "- 버전 표시 수정 (타이틀바/설정 패널)\n- 인스톨러: 설치 전 실행 중 앱 자동 종료\n- 인스톨러: 설치 후 실행 필수 (관리자 권한)\n- 업데이트 시 설정/프로젝트 데이터 보존 강화"
+  "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.3.2-beta/NodeDeck_Setup_v0.3.2-beta.exe",
+  "sha256": "3EEF3B1BCC37F69BC923476F9D5BF7C97E0BEAD2006117EE55630567E48C14D4",
+  "notes": "- 코드 뷰어(에디터 패널) 제거\n- UI 반응속도 개선\n- 설정 즉시 저장 (저장 버튼 제거)"
 }
