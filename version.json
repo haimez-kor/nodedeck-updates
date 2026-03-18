@@ -2,10 +2,10 @@
   "_comment": "이 파일을 GitHub 공개 저장소(소스코드 없는 별도 repo)에 올려두세요.",
   "_comment2": "version.h 의 UPDATE_MANIFEST_URL 을 raw.githubusercontent.com 주소로 설정하세요.",
   "_comment3": "type: \"installer\" = Inno Setup 실행, \"patch\" = exe 직접 교체 (이게 더 간단)",
-  "version": "0.5.1",
-  "build": 121,
+  "version": "0.5.2",
+  "build": 122,
   "type": "installer",
-  "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.1/NodeDeck_Setup_v0.5.1.exe",
-  "sha256": "9F8DEDB771781E6B47985CD87CC67A920589A4A81F898E06BAB971C5DB61C8B2",
-  "notes": "- 헬스체크 커스텀 도메인 모니터: ProxyPanel에 실시간 상태 표시\n- 커스텀 타깃 1분 단위 프로브 (UP: 60s, DOWN 백오프: 1~5분)\n- 프록시 라우트 자동 핀 등록 (삭제 불가)\n- 헬스 상태 저장/불러오기 (health_targets.json)"
+  "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.2/NodeDeck_Setup_v0.5.2.exe",
+  "sha256": "ae34e8de2dffceff644a301621affee13790abda48f6b30469aa6f84078a6f61",
+  "notes": "- [버그픽스] 헬스체크 프로브: HTTP 응답 없음(타임아웃/서버 다운)일 때만 DOWN 처리\n- [버그픽스] 404 등 HTTP 에러 응답도 서버 생존으로 정상 판정\n- 웹 헬스체크 대시보드 추가 (/__nd_health)"
 }
