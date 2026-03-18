@@ -6,6 +6,6 @@
   "build": 120,
   "type": "installer",
   "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.0/NodeDeck_Setup_v0.5.0.exe",
-  "sha256": "fc88acede0f574e1b88e5a32cfae861dd0b8e50bff55522895ddabae05fbe151",
+  "sha256": "28c181612ec81cb1f6e7d19aa6e54e8a050fdb29844caf33d294f756e04ee883",
   "notes": "- 헬스체크 모듈 (health_manager) 영구 백그라운드 기동\n- 프로젝트 자동시작: Discord 봇 포함 1.2초 간격 순차 시작\n- 재시작 후 활성 라우트 있으면 프록시 자동 기동\n- ProxyPanel: 라우트 켜면 프록시 자동 시작\n- 대시보드 카드에 '자동시작' 배지 표시\n- 503 에러 페이지 개선 (문제 해결 안내 + Powered by NodeDeck)\n- 설치 시 중복/잔존 레지스트리 자동 정리\n- QThread 레이스 컨디션 수정 (자동시작 안정화)"
 }
