@@ -2,10 +2,10 @@
   "_comment": "이 파일을 GitHub 공개 저장소(소스코드 없는 별도 repo)에 올려두세요.",
   "_comment2": "version.h 의 UPDATE_MANIFEST_URL 을 raw.githubusercontent.com 주소로 설정하세요.",
   "_comment3": "type: \"installer\" = Inno Setup 실행, \"patch\" = exe 직접 교체 (이게 더 간단)",
-  "version": "0.5.2",
-  "build": 122,
+  "version": "0.5.3",
+  "build": 123,
   "type": "installer",
-  "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.2/NodeDeck_Setup_v0.5.2.exe",
-  "sha256": "ae34e8de2dffceff644a301621affee13790abda48f6b30469aa6f84078a6f61",
-  "notes": "- [버그픽스] 헬스체크 프로브: HTTP 응답 없음(타임아웃/서버 다운)일 때만 DOWN 처리\n- [버그픽스] 404 등 HTTP 에러 응답도 서버 생존으로 정상 판정\n- 웹 헬스체크 대시보드 추가 (/__nd_health)"
+  "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.3/NodeDeck_Setup_v0.5.3.exe",
+  "sha256": "3F4A9A525FE5C2C1B74FE33D6FB4E45679EC52518AFB8B250FCCF82956E05DF4",
+  "notes": "- /__nd_health: UptimeRobot 스타일 상태 페이지로 전면 개편\n- g_projects[] 기반으로 웹 백엔드 + Discord 봇 통합 표시\n- 포트번호 미노출, 서비스 이름만 표시\n- 일부 서비스 문제 감지 시 배너 표시\n- 푸터에 NodeDeck 홈페이지 링크 추가"
 }
