@@ -7,4 +7,4 @@
   "type": "installer",
   "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.3/NodeDeck_Setup_v0.5.3.exe",
   "sha256": "84dbca22bd7d12ebc1d7f674e55b59a3c31db7a07c256107b18bcfaf3a73707c",
-  "notes": "- /__nd_health: UptimeRobot 스타일 상태 페이지로 전면 개편\n- g_projects[] 기반으로 웹 백엔드 + Discord 봇 통합 표시\n- 포트번호 미노출, 서비스 이름만 표시\n- 일부 서비스 문제 감지 시 배너 표시
+  "notes": "- 상태 페이지로 전면 개편\n- g_projects[] 기반으로 웹 백엔드 + Discord 봇 통합 표시\n- 포트번호 미노출, 서비스 이름만 표시\n- 일부 서비스 문제 감지 시 배너 표시
