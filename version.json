@@ -3,7 +3,7 @@
   "_comment2": "version.h 의 UPDATE_MANIFEST_URL 을 raw.githubusercontent.com 주소로 설정하세요.",
   "_comment3": "type: \"installer\" = Inno Setup 실행, \"patch\" = exe 직접 교체 (이게 더 간단)",
   "version": "0.5.3",
-  "build": 123,
+  "build": 124,
   "type": "installer",
   "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.3/NodeDeck_Setup_v0.5.3.exe",
   "sha256": "84dbca22bd7d12ebc1d7f674e55b59a3c31db7a07c256107b18bcfaf3a73707c",
