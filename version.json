@@ -3,9 +3,9 @@
   "_comment2": "version.h 의 UPDATE_MANIFEST_URL 을 raw.githubusercontent.com 주소로 설정하세요.",
   "_comment3": "type: \"installer\" = Inno Setup 실행, \"patch\" = exe 직접 교체 (이게 더 간단)",
   "version": "0.5.3",
-  "build": 124,
+  "build": 125,
   "type": "installer",
   "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.3/NodeDeck_Setup_v0.5.3.exe",
-  "sha256": "84DBCA22BD7D12EBC1D7F674E55B59A3C31DB7A07C256107B18BCFAF3A73707C",
+  "sha256": "14f02e938b9c6eac57ee829ad01f1c7b3fdd8976a1918afba65e02e840d3d750",
   "notes": "- 상태 페이지로 전면 개편\n- g_projects 기반으로 웹 백엔드 + Discord 봇 통합 표시\n- 포트번호 미노출, 서비스 이름만 표시\n- 일부 서비스 문제 감지 시 배너 표시\n- 푸터에 NodeDeck 홈페이지 링크 추가"
 }
