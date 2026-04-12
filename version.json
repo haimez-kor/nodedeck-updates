@@ -5,7 +5,7 @@
   "version": "0.5.4",
   "build": 129,
   "type": "installer",
-  "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.4/NodeDeck_Setup_v0.5.4.exe",
-  "sha256": "ab478c550ed243f586ac34f47e4d0a295eb5c6eff5df7ca233561767c784e74d",
-  "notes": "🔐 보안 강화\n• 서버 요청에 HMAC-SHA256 서명 추가 — 위변조·재전송 공격 차단\n• 인터넷 연결이 없으면 오프라인 유예 없이 즉시 인증 해제\n• 타임스탬프(±5분) + 1회성 Nonce 검증으로 리플레이 공격 방지\n\n📊 성능 개선\n• 로그 뷰어 append-only 렌더링 — 불필요한 전체 clear 제거\n• 서버 카드 상태가 바뀔 때만 UI 갱신 (CPU 사용량 감소)\n• 프로젝트 드롭다운 변경 시에만 재구성\n\n✨ 기능 추가\n• 도움말 메뉴 — 인앱 전체 기능 사용방법 가이드\n• 단축키 안내 다이얼로그 (Ctrl+1~5, F5 등)\n• F5 현재 패널 즉시 새로고침 단축키"
+  "url": "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.4.1/NodeDeck_Setup_v0.5.4.1.exe",
+  "sha256": "40a21712213e310a3bdd839eb723a7ecea5ee4ca735a221aa8a91069d76203c6",
+   "notes": "버그 수정\n• 앱 종료 시 실행 중인 서버를 모두 강제 종료 — 재부팅 후 중복 실행·포트 충돌 방지\n• 도움말 > 사용방법 가이드 한글 깨짐 수정"
 }
