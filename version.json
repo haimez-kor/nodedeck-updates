@@ -6,6 +6,6 @@
     "build":  134,
     "type":  "installer",
     "url":  "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.5.1/NodeDeck_Setup_v0.5.5.1.exe",
-    "sha256":  "c8124ad3f70cc4da2d2dd78eab69f6054d297eeacd7143050e69db69eebab489",
+    "sha256":  "b66f946ff9abd975f6784e747f6b4f2f7bc13d9ceaa69faddb7b9966654af3bc",
     "notes":  "버그 수정\n• 기타 UI 개선 및 버그 수정"
 }
