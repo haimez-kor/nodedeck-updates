@@ -2,10 +2,10 @@
     "_comment":  "이 파일을 GitHub 공개 저장소(소스코드 없는 별도 repo)에 올려두세요.",
     "_comment2":  "version.h 의 UPDATE_MANIFEST_URL 을 raw.githubusercontent.com 주소로 설정하세요.",
     "_comment3":  "type: \"installer\" = Inno Setup 실행, \"patch\" = exe 직접 교체 (이게 더 간단)",
-    "version":  "0.5.5.0",
-    "build":  133,
+    "version":  "0.5.5.1",
+    "build":  134,
     "type":  "installer",
-    "url":  "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.5.0/NodeDeck_Setup_v0.5.5.0.exe",
-    "sha256":  "9c85557dab17dcd37f93e5530ca733c0aa3d3fe25adfacce943eba9edb714d11",
-    "notes":  "파일 백업 추가\n• 프로젝트 폴더를 ZIP 압축하여 Google Drive에 업로드/복원\n• 설정 백업(JSON)과 파일 백업(ZIP)을 분리 운영\n\n관리자 패널 개편\n• 한국어 역할 표시 (관리자/베타 테스터/일반 사용자)\n• 구매 허용 토글 버튼\n• 등록 기기(HWID) 목록 조회 및 개별/전체 삭제\n\n인증 서버\n• purchase_open 토글 API \n• 기기 삭제 API (단일/전체)\n• /backup/save-files, /backup/load-files 엔드포인트 추가\n\n홈페이지\n• Google OAuth 심사 요건 충족 등위 개인정보 스코프 설명 강화\n• 네비게이션 로그인 버튼 추가"
+    "url":  "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.5.1/NodeDeck_Setup_v0.5.5.1.exe",
+    "sha256":  "c8124ad3f70cc4da2d2dd78eab69f6054d297eeacd7143050e69db69eebab489",
+    "notes":  "버그 수정\n• 기타 UI 개선 및 버그 수정"
 }
