@@ -1,11 +1,11 @@
-{
+﻿{
     "_comment":  "이 파일을 GitHub 공개 저장소(소스코드 없는 별도 repo)에 올려두세요.",
     "_comment2":  "version.h 의 UPDATE_MANIFEST_URL 을 raw.githubusercontent.com 주소로 설정하세요.",
     "_comment3":  "type: \"installer\" = Inno Setup 실행, \"patch\" = exe 직접 교체 (이게 더 간단)",
-    "version":  "0.5.5.3",
-    "build":  136,
-    "type":  "installer",
-    "url":  "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.5.3/NodeDeck_Setup_v0.5.5.3.exe",
-    "sha256":  "b82f34204606eeff5e840f7ddfc4bfc486beea30def9e70b90fa8d29fc903dbd",
-    "notes":  "Project tab stability update\n- Spread project/dashboard process stats refresh across small batches to reduce lag and crashes.\n- Added 5 second timeout and duplicate-request guards for update/auth checks.\n- Fixed Discord project runtime auto-detection selection."
+    "version":  "0.5.5.4",
+    "build":  137,
+    "type":  "patch",
+    "url":  "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.5.4/NodeDeck_v0.5.5.4.exe",
+    "sha256":  "e9cdf69870c8fe3acf82e30a6d13d7d59b48c893182a0c7e4875b0aea646e35a",
+    "notes":  "Paid app enforcement update\n- Open Google login to new paid customers with a 7 day trial.\n- Require recent license verification before project/proxy execution.\n- Block expired subscriptions and show paid access gate in the desktop app."
 }
