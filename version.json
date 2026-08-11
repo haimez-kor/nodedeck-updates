@@ -1,11 +1,11 @@
-﻿{
+{
     "_comment":  "이 파일을 GitHub 공개 저장소(소스코드 없는 별도 repo)에 올려두세요.",
     "_comment2":  "version.h 의 UPDATE_MANIFEST_URL 을 raw.githubusercontent.com 주소로 설정하세요.",
     "_comment3":  "type: \"installer\" = Inno Setup 실행, \"patch\" = exe 직접 교체 (이게 더 간단)",
-    "version":  "0.5.5.5",
-    "build":  138,
+    "version":  "0.5.5.6",
+    "build":  139,
     "type":  "patch",
-    "url":  "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.5.5/NodeDeck_v0.5.5.5.exe",
-    "sha256":  "93e4125d92cb675ba8ba0c4cdcf6b863c35b63b3a9ac731757da744a12711d3c",
-    "notes":  "Security hardening update\n- Paid features now require successful server verification in the current app session.\n- Forged local JWT/auth URI data no longer unlocks project or proxy execution.\n- Server HMAC verification now fails closed when APP_HMAC_SECRET is missing.\n- Backup, restore, and Drive token refresh APIs now enforce trial/subscription state."
+    "url":  "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.5.6/NodeDeck_v0.5.5.6.exe",
+    "sha256":  "86dadeaf7c7c8419404f5e4cce0baf34870afe79d4467af3f6c767082e62f00b",
+    "notes":  "App quality update\n- Fixed Windows startup registration and added visible startup status in Settings.\n- Reworked Settings with clearer startup, proxy port, health, plugin, and security options.\n- Google Drive backup now includes project files and shows backup progress.\n- Updated public contact email to contact@haimez.kr."
 }
