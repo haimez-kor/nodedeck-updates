@@ -1,11 +1,8 @@
 {
-    "_comment":  "????????GitHub ???????????????獒?熬곣뫀???????몄툗 ?怨뚮옓????repo)???????????",
-    "_comment2":  "version.h ??UPDATE_MANIFEST_URL ??raw.githubusercontent.com ??낆뒩????щ퓠????源놁젳??筌뚯뼚???",
-    "_comment3":  "type: \"installer\" = Inno Setup ????덈틖, \"patch\" = exe 癲ル슣??????????(???怨쀫쿊 ????좊즲???",
-    "version":  "0.5.5.8",
-    "build":  141,
-    "type":  "patch",
-    "url":  "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.5.8/NodeDeck_v0.5.5.8.exe",
-    "sha256":  "aa16a38ffa4363f3da85bdb9ab3fd70c01b0b0169ad5000833d49ac662a7cd28",
-    "notes":  "App login hotfix\n- Program login now opens the dedicated app-login endpoint.\n- App login always uses the app OAuth flow and ignores existing web sessions."
+    "version":  "0.5.5.9",
+    "build":  142,
+    "type":  "installer",
+    "url":  "https://github.com/haimez-kor/nodedeck-updates/releases/download/v0.5.5.9/NodeDeck_Setup_v0.5.5.9.exe",
+    "sha256":  "6f7959c49f8e7b3ac97ffcff352a59e6ab86bd89ab53ca6bd06d7fd2905f97c5",
+    "notes":  "NodeDeck 0.5.5.9\n- Settings, diagnostics, backup progress and security hardening update.\n- Web billing/account flow and support integration polish."
 }
